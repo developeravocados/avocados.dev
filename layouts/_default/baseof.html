@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head.html" . }}
+  <body {{ with .Kind }} class="{{ . }}" {{ end }}>
+
+    <div class="wrapper">
+      {{ block "content" . }}{{ end }}
+    </div>
+
+    {{ partialCached "scripts.html" . }}
+  </body>
+</html>

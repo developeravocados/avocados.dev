@@ -1,0 +1,37 @@
+{{ define "content" }}
+{{ partialCached "sidebar.html" . }}
+
+<main class="devtricks">
+  <header class="section-box">
+    <h2 class="post-title header-decoration">#adventcado</h2>
+    <div class="post-summary">
+      
+    </div>
+  </header>
+
+  <div class="list">
+    <ul class="post-list no-list-style">
+      {{ range where .Pages "Section" "adventcado" }}
+      <li>
+        {{if .Params.images}}{{ $image := index .Params.images 0 }}
+
+        {{ $src := resources.Get $image }}
+        {{ $small := $src.Resize "360x q85 Box" }}
+        <img class="post-image lazyload" alt="{{ .Title }}" data-src="{{ $small.RelPermalink }}" >
+
+        {{end}}
+        <div class="list-content">
+          <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</span>
+          <h2 class="post-title header-decoration">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+          <a class="right-link" href="{{ .RelPermalink }}"> ↳ Read More</a></p>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</main>
+
+{{ partialCached "footer.html" . }}
+{{ end }}

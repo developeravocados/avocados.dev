@@ -1,0 +1,30 @@
+{{ define "content" }}
+{{ partialCached "sidebar.html" . }}
+
+
+<main>
+  <div class="single">
+    <header class="page-header">
+      {{if .Params.images}}{{ $image := index .Params.images 0 }}
+
+      {{ $src := resources.Get $image }}
+      {{ $small := $src.Resize "360x" }}
+      {{ $medium := $src.Resize "720x" }}
+      <img class="post-image" alt="{{ .Title }}" src="{{ $medium.RelPermalink }}"
+        sizes="(min-width: 720px) 720px, 100vw"
+        srcset='{{ if ge $src.Width "360" }}{{ with $small.RelPermalink }}{{.}} 360w{{ end }}{{ end }}
+        {{ if ge $src.Width "720" }}{{ with $medium.RelPermalink }}, {{.}} 720w{{ end }}{{ end }}'>
+
+      {{end}}
+      <h1 class="page-header__title header-decoration">{{ .Params.title }}</h1>
+    </header>
+    {{if .Params.subtitle}}<h2 class="page-header__title ">{{ .Params.subtitle }}</h2>{{ end }}
+
+    <div class="page-content language-js">
+      {{ .Content }}
+    </div>
+  </div>
+</main>
+
+{{ partialCached "footer.html" . }}
+{{ end }}

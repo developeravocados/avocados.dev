@@ -1,0 +1,39 @@
+{{ define "content" }}
+{{ partialCached "sidebar.html" . }}
+
+<main>
+  <div class="list">
+    <ul class="post-list no-list-style">
+      {{ range where .Site.RegularPages "Section" "in" .Site.Params.mainSections }}
+      <li>
+        {{if .Params.images}}{{ $image := index .Params.images 0 }}
+
+        {{ $src := resources.Get $image }}
+        {{ $small := $src.Resize "360x q85 Box" }}
+        <img class="post-image lazyload" alt="{{ .Title }}" data-src="{{ $small.RelPermalink }}" >
+
+        {{end}}
+        <div class="list-content">
+          <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</span>
+          <h2 class="post-title header-decoration">
+            {{ if .Params.external }}
+            <a class="post-link no-underline" target="_blank" rel="noopener" href="{{ .Params.external }}">{{ .Title }}</a>
+            {{ else }}
+            <a class="" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+          </h2>
+          {{ if .Params.external }}
+          <a target="_blank" rel="noopener" href="{{ .Params.external }}"> ↵ Read More</a>
+          {{ else }}
+          <a class="right-link" href="{{ .RelPermalink }}"> ↳ Read More</a>
+          {{ end }}
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</main>
+
+{{ partialCached "footer.html" . }}
+
+{{ end }}

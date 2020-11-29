@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <filter id="multiply" color-interpolation-filters="sRGB" x="0" y="0" height="100%" width="100%">
+    <feColorMatrix type="matrix" values="0.46 0 0 0  0
+0 0.56 0 0  0
+0 0 0.09  0  0
+0 0 0 1  0"/>
+  </filter>
+</svg>

@@ -1,0 +1,37 @@
+baseURL: https://avocados.dev
+disablePathToLower: true
+languageCode: en-us
+title: Developer Avocados
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+permalinks:
+  adventcado: /:sections/:year/:month/:day/:filename/
+params:
+  mainSections: adventcado
+  description: A roundup of Developer Avocados 🥑 CFPs, resources and articles. Curated by avocados, for avocados.
+  images:
+    - /img/code-avocado.png
+outputFormats:
+  RSS:
+    mediatype: application/rss
+    baseName: feed
+googleAnalytics: UA-184160606-1
+imaging:
+  quality: 85
+  resampleFilter: Lanczos

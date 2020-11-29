@@ -1,0 +1,39 @@
+{{ define "content" }}
+<a class="home-link" href="/">
+  <img src="/img/alex-lakatos.jpg" alt="Alex Lakatos">
+  <div style="text-align:center">
+    <h1 class="header-decoration">{{ .Site.Title }}</h1>
+    <p style="margin-top:1em">How did you even get here?? ¯\_(ツ)_/¯</p>
+  </div>
+</a>
+
+<main class="window">
+  <div class="title-bar">
+    <div class="title-buttons"></div>
+    <div class="title-buttons"></div>
+    <div class="title-buttons"></div>
+  </div>
+  <div class="terminal">
+    <div class="ascii">
+      <pre>   ___
+  / _ \  ___  _ __  ___
+ | | | |/ _ \| '_ \/ __|
+ | |_| | (_) | |_) \__ \_ _ _
+  \___/ \___/| .__/|___(_|_|_)
+             |_|              </pre>
+      <pre>  _  _    ___  _  _
+ | || |  / _ \| || |
+ | || |_| | | | || |_
+ |__   _| |_| |__   _|
+    |_|  \___/   |_|
+                      </pre>
+    </div>
+    <p class="command"><span class="host">@lakatos88</span> <span class="ascii">></span> <span class="path">~/avocados.dev/page-not-found/</span> <span class="host">$</span> </p>
+    <p class="ascii">cat: index.html: No such file or directory</p>
+    <p class="ascii">Press ENTER to continue<span class="caret">_</span></p>
+    <form method="get" action="/">
+      <input type="text" autofocus>
+    </form>
+  </div>
+</main>
+{{ end }}
