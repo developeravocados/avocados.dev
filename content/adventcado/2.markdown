@@ -1,0 +1,8 @@
+---
+date: "2020-11-30T00:00:00Z"
+images:
+  - /img/posts/adventcado/2020/american-avo.png
+title: Come Back Tomorrow?
+---
+
+The #adventcado runs every day. So come back tomorrow for the next Avocado interview!
