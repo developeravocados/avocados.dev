@@ -245,6 +245,15 @@ blockquote {
   line-height: 1.2;
 }
 
+.page-header__title img{
+  height: 1em;
+  padding-top: 0.1em;
+}
+
+.page-header__title a{
+  float: right;
+}
+
 .page-content twitter-widget {
   margin: auto;
 }
