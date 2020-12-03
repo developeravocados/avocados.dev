@@ -12,7 +12,7 @@ My name is Tomomi Imura, and I have been in the field of Developer Relations / D
 
 I am currently working at the [Cloud Developer Advocacy team](https://developer.microsoft.com/en-us/advocates/) at Microsoft. I also consider myself as an advocate for the open web platform and open-source, as well as internationalization to support diverse and inclusive developer communities and ecosystems.
 
-Besides that, I also work as a technical book editor, technical illustrator, advisor for a coding bootcamp, and [cat mom](https://www.flickr.com/photos/girliemac).
+Besides that, I also work as a technical book editor, technical illustrator, advisor for a coding bootcamp, and [cat mom](https://www.instagram.com/girlie_mac/).
 
 ## How did you get into Developer Relations?
 
