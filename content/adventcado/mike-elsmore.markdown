@@ -5,7 +5,6 @@ images:
 twitter: ukmadlz
 title: Mike Elsmore
 ---
-# #adventcado - day 2
 
 _The second Developer Avocado 🥑 we interviewed for this year's advent was [Mike Elsmore](https://twitter.com/ukmadlz). He's recorded the answers to our questions in a video and lightly transcribed here for posterity. Enjoy, and we'll see y'all tomorrow!_
 
