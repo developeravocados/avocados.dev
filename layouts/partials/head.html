@@ -6,6 +6,8 @@
   <title>{{ .Site.Title }}{{ if .Params.title }} - {{ .Params.title | safeHTML }}{{ end }}</title>
   <meta name="description" content="{{ if (eq .Type "post") }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
+  <meta name="monetization" content="$ilp.uphold.com/xd77BF7MkF7J">
+
   {{ if .Params.noindex }}
   <meta name="robots" content="noindex">
   {{ end }}
