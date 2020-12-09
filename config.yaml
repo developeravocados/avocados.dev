@@ -24,7 +24,7 @@ permalinks:
   adventcado: /:sections/:year/:month/:day/:filename/
 params:
   mainSections: adventcado
-  description: A roundup of Developer Avocados 🥑 CFPs, resources and articles. Curated by avocados, for avocados.
+  description: Every day in the run-up to Christmas you'll hear from an amazing Avocado. We've asked them to answer five questions about themselves, their origin story, their year and the future. Everyone got to choose their medium so you'll get to read, listen or watch their answers every day.
   images:
     - /img/code-avocado.png
 outputFormats:
