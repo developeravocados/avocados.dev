@@ -3,7 +3,7 @@ date: "2020-12-12T00:00:00Z"
 images:
   - /img/posts/adventcado/2020/laka.png
 title: Alex Lakatos
-twitter: lakatos88
+twitter: avolakatos
 ---
 
 ## Tell us a bit about yourself.
