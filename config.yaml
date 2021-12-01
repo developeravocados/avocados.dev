@@ -21,12 +21,12 @@ markup:
       unsafe: true
       xhtml: false
 permalinks:
-  adventcado: /:sections/:year/:month/:day/:filename/
+  adventcado: /:sections/:month/:day/:filename/
 params:
   mainSections: adventcado
   description: Every day in the run-up to Christmas you'll hear from an amazing Avocado. We've asked them to answer five questions about themselves, their origin story, their year and the future. Everyone got to choose their medium so you'll get to read, listen or watch their answers every day.
   images:
-    - /img/code-avocado.png
+    - /img/code-avo.png
 outputFormats:
   RSS:
     mediatype: application/rss

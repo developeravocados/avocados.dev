@@ -12,6 +12,8 @@
   <div class="list">
     <ul class="post-list no-list-style">
       {{ range where .Pages "Section" "adventcado" }}
+
+      {{ if eq (.Date.Format "2006") (.Page.Date.Format "2006")}}
       <li>
         {{if .Params.images}}{{ $image := index .Params.images 0 }}
 
@@ -28,6 +30,7 @@
           <a class="right-link" href="{{ .RelPermalink }}"> ↳ Read More</a></p>
         </div>
       </li>
+      {{ end }}
       {{ end }}
     </ul>
   </div>
