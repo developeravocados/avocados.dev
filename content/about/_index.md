@@ -16,4 +16,4 @@ And that's what we do!
 
 [Julia](https://twitter.com/iza_biro) is a Developer Advocate for Vonage focusing on low-code technologies and integrations. Maker and breaker of things, explorer of yet another builder tool. Forever challenging the barriers to entry of tech, she is passionate about learning and teaching, creating resources for the community.😉</p>
 
-[Laka](https://twitter.com/lakatos88) is a Developer Avocado 🥑 Manager for Fidel. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Mentor. He does things for T-Shirts. Might also be a coffee snob.😏</p>
+[Laka](https://twitter.com/avolakatos) is a Developer Avocado 🥑 Manager for Fidel. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Mentor. He does things for T-Shirts. Might also be a coffee snob.😏</p>

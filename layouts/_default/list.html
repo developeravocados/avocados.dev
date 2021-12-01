@@ -5,7 +5,9 @@
   <div class="list">
     <ul class="post-list no-list-style">
       {{ range where .Site.RegularPages "Section" "in" .Site.Params.mainSections }}
+      {{ if eq (.Date.Format "2006") "2021" }}
       <li>
+        
         {{if .Params.images}}{{ $image := index .Params.images 0 }}
 
         {{ $src := resources.Get $image }}
@@ -29,6 +31,7 @@
           {{ end }}
         </div>
       </li>
+      {{ end }}
       {{ end }}
     </ul>
   </div>
