@@ -3,7 +3,7 @@
 <meta name="twitter:card" content="summary"/>
 {{ $image := index . 0 }}
 {{ $src := resources.Get $image }}
-{{ $src := $src.Resize "1200x600" }}
+{{ $src := $src.Resize "500x500" }}
 <meta name="twitter:image" content="{{ $src.Permalink }}"/>
 
 {{ else -}}
