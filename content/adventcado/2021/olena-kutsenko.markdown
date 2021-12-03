@@ -1,7 +1,7 @@
 ---
 date: "2021-12-02T12:00:00Z"
 images:
-  - /img/posts/adventcado/2021/olena-kutsenko.jpeg
+  - /img/posts/adventcado/2021/olena-kutsenko.png
 title: Olena Kutsenko
 twitter: OlenaKutsenko
 ---
