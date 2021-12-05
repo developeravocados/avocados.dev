@@ -10,11 +10,11 @@ twitter: robaxelsen
 
 A Devrel Lead at Dynatrace, founder of 3 meetup groups, co-organizer of ViennaJS, speaker, and creator with a passion for code and people.
 
-In this episode, Rob shares about his journey into DevRel, the work he does as a Developer Avocado, the challenges of being a new hiring manager, and what he'd like to see in the future of DevRel. 
+In this episode, Rob shares about his journey into DevRel, the work he does as a Developer Avocado, the challenges of being a new hiring manager, and what he'd like to see in the future of DevRel.
 
 ### 🎬 Timestamps
-00:00 Meet Rob  
-02:43 Work as a Developer Avocado  
-04:55 Challenges  
-07:00 Building a Team  
-08:30 Future of DevRel  
+[00:00](https://www.youtube.com/watch?v=DMxBFfa47uQ&t=0s) Tell us a bit about yourself.
+[02:43](https://www.youtube.com/watch?v=DMxBFfa47uQ&t=163s) What do you feel is the most important part of your job?
+[04:55](https://www.youtube.com/watch?v=DMxBFfa47uQ&t=295s) What is something you’re struggling with?  
+[07:00](https://www.youtube.com/watch?v=DMxBFfa47uQ&t=420s) What do you look for when building your team?
+[08:30](https://www.youtube.com/watch?v=DMxBFfa47uQ&t=510s) What’s one change you’d like to see in DevRel?
