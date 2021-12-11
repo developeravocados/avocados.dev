@@ -11,7 +11,7 @@ twitter: appforce1
 
 ## Tell us a bit about yourself.
 
-I am a software developer currently specialized in iOS development. I also create a podcast called "AppForce1" focussed on iOS app developers. I have a long and varied history working on all kinds of technical challenging systems. But since 2012 my main focus has been iOS and related platforms.
+I am a software developer currently specialized in iOS development. I also create a podcast called ["AppForce1"](https://appforce1.net/podcast/) focussed on iOS app developers. I have a long and varied history working on all kinds of technical challenging systems. But since 2012 my main focus has been iOS and related platforms.
 
 Only recently, on November 1st, did I switch into a developer relation role. The reasons for me to make this switch are interesting. I was hitting a ceiling within my role, and the company wanted me to move away from technical work. Manage people, interact more with the stakeholders, those kinds of things. But I wanted to stick with engineering work. In my job search Anastasiia, one of the recruiters of Stream looked at my profile and mid-conversation mentioned I would be a good fit for their developer relations team. I had some experience with such work as a community leader of the Dutch CocoaHeads, conference organizing, and similar things.
 
