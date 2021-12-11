@@ -1,0 +1,7 @@
+{{ $src := resources.GetMatch (.Get "src") }}
+{{ $type := (.Get "type") }}
+{{ $name := (.Get "name") }}
+<audio controls>
+  <source src="{{ $src.RelPermalink }}" type="{{ $type }}">
+  {{ $name }} recorded an audio version of this interview, but your browser doesn't support the HTML audio element.
+</audio>
