@@ -181,21 +181,17 @@ blockquote {
 
 // Homepage listing styles
 .post-list {
-  column-width: 20em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
   padding: 1.5em;
   margin-left: 0;
 }
 
 .post-list li {
-  break-inside: avoid;
   margin: 1.5em 0.5em;
   border-top: 3px dotted var(--main);
   border-left: 3px dotted var(--main);
   box-shadow: 4px 4px 0 0 var(--main);
-}
-
-.post-list li:first-child {
-  margin-top: 0;
 }
 
 .post-image {
