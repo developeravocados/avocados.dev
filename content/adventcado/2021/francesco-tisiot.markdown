@@ -5,7 +5,14 @@ images:
 title: Francesco Tisiot
 twitter: FTisiot
 ---
+<iframe width="100%" height="480" src="https://www.youtube.com/watch?v=VXAaoUgDWQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+<br/>
+
+# [Transcript]
+
+<br/>
 ## Tell us a bit about yourself.
 
 Hi, I’m Francesco Tisiot Developer Advocate at Aiven based in Verona, Italy. You might know me for my blog posts about Analytics, Apache Kafka, PostgreSQL and Grafana or also because of my continuous fight against pineapple on pizza or ketchup on pasta. Yes, I have strong opinions about Italian food.
