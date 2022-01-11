@@ -8,7 +8,7 @@ title: Jason Lengstorf
 
 _The sixth Developer Avocado 🥑 we interviewed for this year's advent was [Jason Lengstorf](https://twitter.com/jlengstorf). Laka had an interview call with Jason, and we've lightly edited and uploaded the recording to YouTube. There's a lightly edited transcription for posterity as well. Enjoy the video, and we'll see y'all tomorrow!_
 
-<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/DYI-Uu5ykUo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/DJQjl4YexBg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Transcript]
 
