@@ -8,7 +8,7 @@ title: Adewale Abati
 
 _The twenty-second Developer Avocado 🥑 we interviewed for this year's advent was [Adewale Abati](https://www.twitch.tv/baldbeardedbuilder). He's recorded the answers to our questions in a video, and transcribed them as well! We've hosted the video on youtube and the transcript here, for posterity. Enjoy, and we'll see y'all tomorrow!_
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/M0Ayr-TOGlw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/E5PQZLteVGY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Transcript]
 

@@ -8,7 +8,7 @@ title: Mary Thengvall
 
 _The seventeenth Developer Avocado 🥑 we interviewed for this year's advent was [Mary Thengvall](https://www.marythengvall.com/). She's recorded the answers to our questions in a video, which we've hosted on youtube and lightly transcribed here for posterity. Enjoy, and we'll see y'all tomorrow!_
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/zjLS6BM3gMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/pyImulGVidw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # [Transcript]
 

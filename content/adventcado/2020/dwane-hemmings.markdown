@@ -8,7 +8,7 @@ title: Dwane Hemmings
 
 _The fifteenth Developer Avocado 🥑 we interviewed for this year's advent was [Dwane Hemmings](https://twitter.com/lifelongdev). Dwane recorded the interview in quite a creative fashion, and added a transcript to it, which we've added here as well. Enjoy the video, and we'll see y'all tomorrow!_
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/9zGJj4swtuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/LtCyJ0V6Vz4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tell us a bit about yourself.
 
