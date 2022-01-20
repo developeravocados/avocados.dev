@@ -14,6 +14,6 @@ And that's what we do!
 
 ## Who are we?
 
-[Julia](https://twitter.com/iza_biro) is a Developer Advocate for Vonage focusing on low-code technologies and integrations. Maker and breaker of things, explorer of yet another builder tool. Forever challenging the barriers to entry of tech, she is passionate about learning and teaching, creating resources for the community.😉</p>
+[Julia](https://twitter.com/iza_biro) is a Senior Developer Advocate for Infobip focusing on Developer Experience. Maker and breaker of things, explorer of yet another builder tool. Forever challenging the barriers to entry of tech, she is passionate about learning and teaching, creating resources for the developer community.😉</p>
 
-[Laka](https://twitter.com/avolakatos) is a Developer Avocado 🥑 Manager for Fidel. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Mentor. He does things for T-Shirts. Might also be a coffee snob.😏</p>
+[Laka](https://twitter.com/avolakatos) is the Technology Lead at the Interledger Foundation. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Mentor. He does things for T-Shirts. Might also be a coffee snob.😏</p>
