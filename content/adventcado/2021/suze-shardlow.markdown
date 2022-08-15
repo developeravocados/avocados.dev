@@ -10,7 +10,7 @@ twitter: SuzeShardlow
 
 My name’s Suze Shardlow, I am based in London, England and I currently head up Developer Community at Redis.  I’m also a coding instructor, tech event MC and technical writer: I had my first book published this year.  Inside and outside of tech, I’ve always loved making things that people use and enjoy, particularly crafts which involve needles or scalpels!
 
-My love of tech and coding began when, as a small child, I got my first computer which was a BBC Micro.  I spent many happy hours programming that machine, connected to the only TV in the house (which helped me hone my [negotiating skills](https://www.youtube.com/watch?v=s8oCwvzKETg)).  However, the UK education system didn’t and, arguably - nearly 40 years later - still doesn't know what to do with girls who like computing.  So I was never shown that I could code for a living.
+My love of tech and coding began when, as a small child, I got my first computer which was a BBC Micro.  I spent many happy hours programming that machine, connected to the only TV in the house (which helped me hone my [negotiating skills](https://www.youtube.com/watch?v=ds8ycUzQjDE)).  However, the UK education system didn’t and, arguably - nearly 40 years later - still doesn't know what to do with girls who like computing.  So I was never shown that I could code for a living.
 
 As a result, I took the most versatile degree that I could think of (Business with Marketing) which kicked off a 20-year career in marketing, management and logistics.  I worked in industries including government (UK and Canadian), higher education, mechanical engineering, IT consultancy and law enforcement but never really felt that I had found my calling.
 
